@@ -64,7 +64,7 @@ Can be combined with password protection.
 
 ### 📴 Offline Mode
 - Works without internet  
-- Files cannot be unlocked on other devices  
+- Files can be unlocked on other devices using the correct password  
 
 ---
 
