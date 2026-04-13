@@ -93,7 +93,7 @@ We build tools focused on:
 * Automation  
 * Developer tools  
 
-📌 GitHub: https://github.com/foxhackerzdevs  
+📌 GitHub: [https://github.com/foxhackerzdevs](https://github.com/foxhackerzdevs)
 
 ---
 
